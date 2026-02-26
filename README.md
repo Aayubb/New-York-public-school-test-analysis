@@ -48,31 +48,10 @@ All numeric values are rounded to two decimal places.
 ## 📁 Repository Structure
 
 ```
-├── notebook.ipynb        # Main analysis notebook
+├── New York School analysis.ipynb        # Main analysis notebook
 ├── schools.csv           # NYC schools SAT dataset
 └── README.md
 ```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nyc-schools-sat-analysis.git
-   cd nyc-schools-sat-analysis
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas
-   ```
-
-3. Open the notebook:
-   ```bash
-   jupyter notebook notebook.ipynb
-   ```
-
 ---
 
 ## 📊 Key Concepts Applied
